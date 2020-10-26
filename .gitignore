@@ -1,0 +1,4 @@
+# Python
+/env
+*.py[cod]
+__pycache__/
